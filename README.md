@@ -1,7 +1,7 @@
 ![2 of 3](dvvy-2-3.png "2 of 3")
 
 # Name
-Divvy 2/3
+Minting Multisig
 
 # Address
  0x2C727c8644aCD0f002ECc863D325a0FD2F33C252 
